@@ -46,4 +46,6 @@ Was unsuccessful at achieving an accuracy score higher than 75%, through the att
 
 AdobeStock Image © 2019 All Rights Reserved.
 
+Internal Revenue Service. Tax Exempt Organization Search Bulk Data Downloads. <https://www.irs.gov/>
+
 Trilogy Education Services © 2023. All Rights Reserved.
