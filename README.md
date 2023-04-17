@@ -44,6 +44,6 @@ Was unsuccessful at achieving an accuracy score higher than 75%, through the att
   I created this shareable link to my repository <https://github.com/jdelacruzjr/deep-learning-challenge.git> and submitted it to <https://bootcampspot-v2.com>
 ### Copyright
 
-USGS Image © 2019 All Rights Reserved.
+AdobeStock Image © 2019 All Rights Reserved.
 
 Trilogy Education Services © 2023. All Rights Reserved.
